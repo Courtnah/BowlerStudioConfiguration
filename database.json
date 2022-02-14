@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/Courtnah/extrudePolygon_Courtnah.git": [
+      "https://github.com/Courtnah/extrudePolygon_Courtnah.git",
+      "1644804398586"
+    ],
     "https://github.com/Courtnah/cube_Courtnah.git": [
       "https://github.com/Courtnah/cube_Courtnah.git",
       "1644802844690"
@@ -31,9 +35,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/Courtnah/NamedSolids_Courtnah.git:NamedSolids.groovy": [
-      "https://github.com/Courtnah/NamedSolids_Courtnah.git",
-      "NamedSolids.groovy"
+    "https://github.com/Courtnah/extrudePolygon_Courtnah.git:extrudePolygon.groovy": [
+      "https://github.com/Courtnah/extrudePolygon_Courtnah.git",
+      "extrudePolygon.groovy"
     ]
   },
   "BowlerStudioConfigs": {
