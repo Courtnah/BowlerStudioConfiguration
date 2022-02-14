@@ -11,13 +11,17 @@
     "https://github.com/Courtnah/javaCad_Courtnah.git": [
       "https://github.com/Courtnah/javaCad_Courtnah.git",
       "1644802050208"
+    ],
+    "https://github.com/Courtnah/ChamferedParts_Courtnah.git": [
+      "https://github.com/Courtnah/ChamferedParts_Courtnah.git",
+      "1644803054989"
     ]
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/Courtnah/cube_Courtnah.git:cube.groovy": [
-      "https://github.com/Courtnah/cube_Courtnah.git",
-      "cube.groovy"
+    "https://github.com/Courtnah/ChamferedParts_Courtnah.git:ChamferedParts.groovy": [
+      "https://github.com/Courtnah/ChamferedParts_Courtnah.git",
+      "ChamferedParts.groovy"
     ]
   },
   "BowlerStudioConfigs": {
