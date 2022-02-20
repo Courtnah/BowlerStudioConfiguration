@@ -1,55 +1,5 @@
 {
-  "Microsoft X-Box 360 pad": {
-    "A": "a-mode",
-    "B": "b-mode",
-    "Start": "start",
-    "rx": "r-joy-left-right",
-    "ry": "r-joy-up-down",
-    "Mode": "select",
-    "rz": "analog-trig",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "y": "l-joy-up-down",
-    "Y": "y-mode",
-    "Left Thumb": "l-trig-button"
-  },
-  "Gamesir-T4pro_21FD": {
-    "A": "a-mode",
-    "slider": "analog-trig",
-    "B": "b-mode",
-    "Start": "start",
-    "rz": "r-joy-up-down",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-left-right",
-    "X": "x-mode",
-    "Select": "select",
-    "y": "l-joy-up-down",
-    "Y": "y-mode",
-    "z": "r-joy-left-right",
-    "Left Thumb": "l-trig-button"
-  },
   "workspace": {
-    "https://gist.github.com/26a571e332833f23754d.git": [
-      "GIST: Bowler Studio Game Controllers",
-      "1638042344275"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "Hephaestus-Arm/HephaestusArm2",
-      "1644769502551"
-    ],
-    "https://github.com/Courtnah/helloWorld_Courtnah.git": [
-      "https://github.com/Courtnah/helloWorld_Courtnah.git",
-      "1644801415875"
-    ],
-    "https://github.com/Courtnah/NamedSolids_Courtnah.git": [
-      "https://github.com/Courtnah/NamedSolids_Courtnah.git",
-      "1644804244428"
-    ],
-    "https://github.com/madhephaestusdemo/sphere_madhephaestusdemo.git": [
-      "https://github.com/madhephaestusdemo/sphere_madhephaestusdemo.git",
-      "1645371608411"
-    ],
     "https://github.com/Courtnah/extrudePolygon_Courtnah.git": [
       "https://github.com/Courtnah/extrudePolygon_Courtnah.git",
       "1644804398586"
@@ -62,21 +12,17 @@
       "https://github.com/Courtnah/cylinder_Courtnah.git",
       "1644803387707"
     ],
-    "https://github.com/madhephaestus/parabolicpictureframe.git": [
-      "https://github.com/madhephaestus/parabolicpictureframe.git",
-      "1640022152007"
+    "https://github.com/Courtnah/helloWorld_Courtnah.git": [
+      "https://github.com/Courtnah/helloWorld_Courtnah.git",
+      "1644801415875"
     ],
-    "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git": [
-      "https://github.com/madhephaestus/reloadgraphicsbowlerstudio.git",
-      "1644767052032"
+    "https://github.com/Courtnah/NamedSolids_Courtnah.git": [
+      "https://github.com/Courtnah/NamedSolids_Courtnah.git",
+      "1644804244428"
     ],
     "https://github.com/Courtnah/RoundedCylinderTest_Courtnah.git": [
       "https://github.com/Courtnah/RoundedCylinderTest_Courtnah.git",
       "1644803950367"
-    ],
-    "https://github.com/madhephaestus/BowlerStudioImageAssets.git": [
-      "madhephaestus/BowlerStudioImageAssets",
-      "1644765345918"
     ],
     "https://github.com/Courtnah/javaCad_Courtnah.git": [
       "https://github.com/Courtnah/javaCad_Courtnah.git",
@@ -85,43 +31,12 @@
     "https://github.com/Courtnah/ChamferedParts_Courtnah.git": [
       "https://github.com/Courtnah/ChamferedParts_Courtnah.git",
       "1644803054989"
-    ],
-    "https://github.com/WPIRoboticsEngineering/HortonsLinkages.git": [
-      "WPIRoboticsEngineering/HortonsLinkages",
-      "1642878392873"
     ]
   },
-  "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch": {
-    "A": "y-mode",
-    "B": "b-mode",
-    "C": "a-mode",
-    "rz": "r-joy-up-down",
-    "Right Thumb": "r-trig-button",
-    "x": "l-joy-up-down",
-    "X": "x-mode",
-    "y": "l-joy-left-right",
-    "Left Thumb 3": "start",
-    "Right Thumb 2": "select",
-    "z": "r-joy-left-right",
-    "Z": "analog-trig",
-    "Left Thumb": "l-trig-button"
-  },
   "studio-open-web": {},
-  "katapult": {
-    "gameControllerNames": [
-      "Game",
-      "X-Box",
-      "Dragon",
-      "Performance Designed Products Faceoff Premiere Wired Pro Controller for Nintendo Switch"
-    ],
-    "linkDeviceName": "midnight",
-    "robotName": "Luna",
-    "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/Luna.git"
-  },
   "studio-open-git": {
-    "https://github.com/madhephaestusdemo/sphere_madhephaestusdemo.git:sphere.groovy": [
-      "https://github.com/madhephaestusdemo/sphere_madhephaestusdemo.git",
+    "https://github.com/Courtnah/sphere_Courtnah.git:sphere.groovy": [
+      "https://github.com/Courtnah/sphere_Courtnah.git",
       "sphere.groovy"
     ]
   },
