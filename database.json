@@ -16,6 +16,10 @@
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "1645491239339"
     ],
+    "https://github.com/Courtnah/resizeScale_Courtnah.git": [
+      "https://github.com/Courtnah/resizeScale_Courtnah.git",
+      "1645496028861"
+    ],
     "https://github.com/Courtnah/helloWorld_Courtnah.git": [
       "https://github.com/Courtnah/helloWorld_Courtnah.git",
       "1644801415875"
@@ -47,6 +51,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/Courtnah/RoundedCylinderTest_Courtnah.git:RoundedCylinderTest.groovy": [
+      "https://github.com/Courtnah/RoundedCylinderTest_Courtnah.git",
+      "RoundedCylinderTest.groovy"
+    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "cylinder.groovy"
@@ -54,6 +62,10 @@
     "https://github.com/Courtnah/pawnjuantriumphant.git:PawnJuanTriumphant.groovy": [
       "https://github.com/Courtnah/pawnjuantriumphant.git",
       "PawnJuanTriumphant.groovy"
+    ],
+    "https://github.com/Courtnah/resizeScale_Courtnah.git:resizeScale.groovy": [
+      "https://github.com/Courtnah/resizeScale_Courtnah.git",
+      "resizeScale.groovy"
     ],
     "https://github.com/Courtnah/sphere_Courtnah.git:sphere.groovy": [
       "https://github.com/Courtnah/sphere_Courtnah.git",
