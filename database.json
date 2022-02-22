@@ -12,6 +12,10 @@
       "https://github.com/Courtnah/cylinder_Courtnah.git",
       "1644803387707"
     ],
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
+      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+      "1645491239339"
+    ],
     "https://github.com/Courtnah/helloWorld_Courtnah.git": [
       "https://github.com/Courtnah/helloWorld_Courtnah.git",
       "1644801415875"
@@ -39,6 +43,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
+      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+      "cylinder.groovy"
+    ],
     "https://github.com/Courtnah/sphere_Courtnah.git:sphere.groovy": [
       "https://github.com/Courtnah/sphere_Courtnah.git",
       "sphere.groovy"
