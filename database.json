@@ -24,6 +24,10 @@
       "https://github.com/Courtnah/NamedSolids_Courtnah.git",
       "1644804244428"
     ],
+    "https://github.com/Courtnah/pawnjuantriumphant.git": [
+      "https://github.com/Courtnah/pawnjuantriumphant.git",
+      "1645491334996"
+    ],
     "https://github.com/Courtnah/RoundedCylinderTest_Courtnah.git": [
       "https://github.com/Courtnah/RoundedCylinderTest_Courtnah.git",
       "1644803950367"
@@ -46,6 +50,10 @@
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "cylinder.groovy"
+    ],
+    "https://github.com/Courtnah/pawnjuantriumphant.git:PawnJuanTriumphant.groovy": [
+      "https://github.com/Courtnah/pawnjuantriumphant.git",
+      "PawnJuanTriumphant.groovy"
     ],
     "https://github.com/Courtnah/sphere_Courtnah.git:sphere.groovy": [
       "https://github.com/Courtnah/sphere_Courtnah.git",
