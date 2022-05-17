@@ -79,10 +79,6 @@
       "https://github.com/Courtnah/courtnahspawn.git",
       "Rook.groovy"
     ],
-    "https://github.com/Courtnah/roundedcube_Courtnah.git:roundedcube.groovy": [
-      "https://github.com/Courtnah/roundedcube_Courtnah.git",
-      "roundedcube.groovy"
-    ],
     "https://github.com/Courtnah/courtnahspawn.git:pawn.groovy": [
       "https://github.com/Courtnah/courtnahspawn.git",
       "pawn.groovy"
