@@ -75,6 +75,10 @@
       "https://github.com/Courtnah/RevolveExtrude_Courtnah.git",
       "RevolveExtrude.groovy"
     ],
+    "https://github.com/Courtnah/courtnahspawn.git:Rook.groovy": [
+      "https://github.com/Courtnah/courtnahspawn.git",
+      "Rook.groovy"
+    ],
     "https://github.com/Courtnah/courtnahspawn.git:pawn.groovy": [
       "https://github.com/Courtnah/courtnahspawn.git",
       "pawn.groovy"
