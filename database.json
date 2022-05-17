@@ -8,6 +8,10 @@
       "Courtnah/courtnahspawn",
       "1652750690564"
     ],
+    "https://github.com/Courtnah/ParabolaTest_Courtnah.git": [
+      "https://github.com/Courtnah/ParabolaTest_Courtnah.git",
+      "1652752697684"
+    ],
     "https://github.com/Courtnah/helloWorld_Courtnah.git": [
       "https://github.com/Courtnah/helloWorld_Courtnah.git",
       "1644801415875"
@@ -66,6 +70,10 @@
     "https://github.com/Courtnah/courtnahspawn.git:pawn.groovy": [
       "https://github.com/Courtnah/courtnahspawn.git",
       "pawn.groovy"
+    ],
+    "https://github.com/Courtnah/ParabolaTest_Courtnah.git:ParabolaTest.groovy": [
+      "https://github.com/Courtnah/ParabolaTest_Courtnah.git",
+      "ParabolaTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
