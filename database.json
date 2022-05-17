@@ -8,6 +8,10 @@
       "Courtnah/courtnahspawn",
       "1652750690564"
     ],
+    "https://github.com/Courtnah/RevolveExtrude_Courtnah.git": [
+      "https://github.com/Courtnah/RevolveExtrude_Courtnah.git",
+      "1652756990585"
+    ],
     "https://github.com/Courtnah/ParabolaTest_Courtnah.git": [
       "https://github.com/Courtnah/ParabolaTest_Courtnah.git",
       "1652752697684"
@@ -63,17 +67,13 @@
       "https://github.com/Courtnah/RoundedCylinderTest_Courtnah.git",
       "RoundedCylinderTest.groovy"
     ],
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
-      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
-      "cylinder.groovy"
+    "https://github.com/Courtnah/RevolveExtrude_Courtnah.git:RevolveExtrude.groovy": [
+      "https://github.com/Courtnah/RevolveExtrude_Courtnah.git",
+      "RevolveExtrude.groovy"
     ],
     "https://github.com/Courtnah/courtnahspawn.git:pawn.groovy": [
       "https://github.com/Courtnah/courtnahspawn.git",
       "pawn.groovy"
-    ],
-    "https://github.com/Courtnah/ParabolaTest_Courtnah.git:ParabolaTest.groovy": [
-      "https://github.com/Courtnah/ParabolaTest_Courtnah.git",
-      "ParabolaTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
