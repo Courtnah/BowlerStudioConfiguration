@@ -58,6 +58,10 @@
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:cylinder.groovy": [
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "cylinder.groovy"
+    ],
+    "https://github.com/Courtnah/courtnahspawn.git:pawn.groovy": [
+      "https://github.com/Courtnah/courtnahspawn.git",
+      "pawn.groovy"
     ]
   },
   "BowlerStudioConfigs": {
