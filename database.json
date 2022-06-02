@@ -56,6 +56,10 @@
       "https://github.com/Courtnah/RoundedCylinderTest_Courtnah.git",
       "1644803950367"
     ],
+    "https://github.com/Courtnah/intersect_Courtnah.git": [
+      "https://github.com/Courtnah/intersect_Courtnah.git",
+      "1654179394096"
+    ],
     "https://github.com/Courtnah/javaCad_Courtnah.git": [
       "https://github.com/Courtnah/javaCad_Courtnah.git",
       "1644802050208"
@@ -86,6 +90,10 @@
     "https://github.com/Courtnah/union_Courtnah.git:union.groovy": [
       "https://github.com/Courtnah/union_Courtnah.git",
       "union.groovy"
+    ],
+    "https://github.com/Courtnah/intersect_Courtnah.git:intersect.groovy": [
+      "https://github.com/Courtnah/intersect_Courtnah.git",
+      "intersect.groovy"
     ]
   },
   "BowlerStudioConfigs": {
