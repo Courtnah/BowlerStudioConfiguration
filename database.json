@@ -82,30 +82,6 @@
     "https://github.com/Courtnah/woofridge.git:woofridge.SVG": [
       "https://github.com/Courtnah/woofridge.git",
       "woofridge.SVG"
-    ],
-    "https://github.com/Courtnah/courtnahspawn.git:Rook.groovy": [
-      "https://github.com/Courtnah/courtnahspawn.git",
-      "Rook.groovy"
-    ],
-    "https://github.com/Courtnah/RevolveExtrude_Courtnah.git:RevolveExtrude.groovy": [
-      "https://github.com/Courtnah/RevolveExtrude_Courtnah.git",
-      "RevolveExtrude.groovy"
-    ],
-    "https://github.com/Courtnah/woofridge.git:woofridge.groovy": [
-      "https://github.com/Courtnah/woofridge.git",
-      "woofridge.groovy"
-    ],
-    "https://github.com/Courtnah/courtnahspawn.git:pawn.groovy": [
-      "https://github.com/Courtnah/courtnahspawn.git",
-      "pawn.groovy"
-    ],
-    "https://github.com/Courtnah/union_Courtnah.git:union.groovy": [
-      "https://github.com/Courtnah/union_Courtnah.git",
-      "union.groovy"
-    ],
-    "https://github.com/Courtnah/intersect_Courtnah.git:intersect.groovy": [
-      "https://github.com/Courtnah/intersect_Courtnah.git",
-      "intersect.groovy"
     ]
   },
   "BowlerStudioConfigs": {
