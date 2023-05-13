@@ -78,6 +78,9 @@
     ]
   },
   "studio-open-web": {},
+  "MenueSettings": {
+    "printCSG": true
+  },
   "studio-open-git": {
     "https://github.com/Courtnah/woofridge.git:woofridge.SVG": [
       "https://github.com/Courtnah/woofridge.git",
