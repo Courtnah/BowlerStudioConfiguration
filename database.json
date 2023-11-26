@@ -85,6 +85,10 @@
     "https://github.com/Courtnah/woofridge.git:woofridge.SVG": [
       "https://github.com/Courtnah/woofridge.git",
       "woofridge.SVG"
+    ],
+    "https://github.com/Courtnah/CoatRack.git:CoatRack.groovy": [
+      "https://github.com/Courtnah/CoatRack.git",
+      "CoatRack.groovy"
     ]
   },
   "BowlerStudioConfigs": {
