@@ -4,10 +4,6 @@
       "https://github.com/Courtnah/union_Courtnah.git",
       "1652758004236"
     ],
-    "": [
-      "Project ",
-      "1714920405116"
-    ],
     "https://gist.github.com/b6ebfe4bb8210bb61c8a.git": [
       "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
       "1645491239339"
@@ -93,6 +89,10 @@
     "https://github.com/Courtnah/CoatRack.git:CoatRack.groovy": [
       "https://github.com/Courtnah/CoatRack.git",
       "CoatRack.groovy"
+    ],
+    "https://github.com/Courtnah/svgstorage.git:svgstorage.SVG": [
+      "https://github.com/Courtnah/svgstorage.git",
+      "svgstorage.SVG"
     ]
   },
   "BowlerStudioConfigs": {
